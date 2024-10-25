@@ -1,0 +1,24 @@
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 30rem;
+    background-image: linear-gradient(var(--bg-color-img),var(--bg-color-img)), var(--bg-content);
+    background-position: center;
+    background-size: cover;
+    color: var(--color-white);
+    text-align: center;
+}
+
+.content__title{
+    font-size: 3rem;
+    font-weight: bold;
+    max-width: 40rem;
+}
+
+.content__text{
+    opacity: 60%;
+    font-size: 1.2rem;
+    max-width: 33rem;
+}
