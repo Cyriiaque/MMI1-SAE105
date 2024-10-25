@@ -1,0 +1,44 @@
+@import "../reset.css";
+@import "../variables.css";
+
+.contentl2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 50rem;
+    color: var(--color-grey);
+    text-align: center;
+}
+
+.contentl2__title{
+    width: 30rem;
+    color: var(--color-marine);
+    font-size: 2.2rem;
+    font-weight: bold;
+}
+
+.contentl2__content {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 2rem;
+}
+
+.contentl2__elt{
+    display: flex;
+    flex-direction: column;
+    margin: 1rem;
+    text-align: left;
+}
+
+.contentl2__question{
+    width: 30rem;
+    color: var(--color-marine);
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.contentl2__answer{
+    width: 30rem;
+    font-size: 1rem;
+}
