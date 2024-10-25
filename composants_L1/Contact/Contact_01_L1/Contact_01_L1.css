@@ -1,0 +1,46 @@
+.contact {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 45rem;
+    background-color: var(--bg-color-blue);
+    background-image: var(--bg-contact);
+    background-position: center;
+    background-size: cover;
+    color: var(--color-white);
+    text-align: center;
+    gap: 2.5rem;
+}
+
+.contact__content {
+    max-width: 30rem;
+}
+
+.contact__brand{
+    margin: 0;
+    color: var(--color-pink);
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.contact__desc{
+    font-size: 1.2rem;
+}
+
+.contact__text{
+    margin: 0;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.contact__title{
+    font-size: 1rem;
+    text-transform: uppercase;
+}
+
+.contact__socials{
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+}

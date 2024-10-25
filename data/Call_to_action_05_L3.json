@@ -1,0 +1,23 @@
+[
+    {
+        "background":"./../../../assets/Call_to_action_05_L3_bg.png",
+        "text":"Get Started",
+        "title":"Get in Touch with Us",
+        "video":"https://www.youtube.com/embed/uGSu6mhk3RQ?si=8XOi2z-hpYgSSi7r",
+
+        "card":[
+            {
+            "card_title": "New Design",
+            "card_text": "Carefully crafted precise design, with harmonious typograph."
+            },
+            {
+            "card_title": "New Code",
+            "card_text": "Built with HTML, CSS and JS. Startup’s code is easy to. "
+            },
+            {
+            "card_title": "New Character",
+            "card_text": "Transform your ideas into reality and launch a beautiful site."
+            }
+        ]
+    }
+]

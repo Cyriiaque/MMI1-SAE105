@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Startup 3",
+        "card1_title": "PayPal",
+        "card1_text": "Safe payment online. Credit card needed. PayPal account is not necessary.",
+        "card1_logo": ["./assets/paymentpaypal.svg"],
+        "card1_input": "Email adress",
+        "card1_button": "Checkout",
+        "card2_title": "Credit Card",
+        "card2_text": "Safe money transfer using your bank account.",
+        "card2_logo": ["./assets/paymentvisa.svg","./assets/paymentmastercard.svg","./assets/paymentdiscover.svg","./assets/paymentamex.svg"],
+        "card2_title1": "Credit card number",
+        "card2_title2": "Expiration",
+        "card2_title3": "cardholder name",
+        "card2_title4": "cvv code",
+        "card2_button": "Checkout"
+    }
+]

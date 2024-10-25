@@ -1,0 +1,7 @@
+html,body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--color-white);
+    border: 0;
+    font-family: "DM Sans", sans-serif;
+}
