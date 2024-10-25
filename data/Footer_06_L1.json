@@ -1,9 +1,0 @@
-[
-    {
-        "title": "Startup 3",
-        "rule": ["Privacy Policy","Terms"],
-        "icon": ["./assets/twitter.svg","./assets/Google.svg","./assets/facebook.svg"],
-        "rubrique": ["Tour","Features","Pricing Plans","Our Works","Brands","Contacts"],
-        "rule_last": "© 2017 Designmodo. All rights reserved."
-    }
-]
