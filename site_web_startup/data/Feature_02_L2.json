@@ -1,0 +1,19 @@
+[
+    {
+        "title": "Fonctionnalités clés",
+        "text": "La plateforme offre des fonctionnalités interactives pour encourager la communauté sportive.",
+
+        "card":[
+            {
+            "card_img": "./assets/Feature_02_L2_1.jpg",
+            "card_title": "Réseau Social Sportif",
+            "card_text": "Une plateforme sociale dédiée au sport, permettant aux utilisateurs de créer des profils sportifs, de se connecter avec d'autres passionnés."
+            },
+            {
+            "card_img": "./assets/Feature_02_L2_2.jpg",
+            "card_title": "Événements Locaux et Virtuels",
+            "card_text": "Une section dédiée aux événements sportifs locaux et virtuels, permettant aux utilisateurs de découvrir des activités sportives."
+            }
+        ]
+    }
+]

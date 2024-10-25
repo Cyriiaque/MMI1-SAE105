@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Paiements",
+        "card1_title": "PayPal",
+        "card1_text": "Paiement en ligne sécurisé. Carte de crédit nécessaire. Un compte PayPal n'est pas nécessaire.",
+        "card1_logo": ["./assets/paymentpaypal.svg"],
+        "card1_input": "adresse email",
+        "card1_button": "Payer",
+        "card2_title": "Carte de crédit",
+        "card2_text": "Transfert d'argent sécurisé en utilisant votre compte bancaire.",
+        "card2_logo": ["./assets/paymentvisa.svg","./assets/paymentmastercard.svg","./assets/paymentdiscover.svg","./assets/paymentamex.svg"],
+        "card2_title1": "Numéro de Carte de Crédit",
+        "card2_title2": "Expiration",
+        "card2_title3": "Nom du titulaire",
+        "card2_title4": "code cvv",
+        "card2_button": "Payer"
+    }
+]

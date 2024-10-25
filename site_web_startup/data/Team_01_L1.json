@@ -1,0 +1,25 @@
+[
+    {
+        "text":"L'équipe",
+        "title":"Nos coachs",
+        "text2":"SportHub propose vous met en relation avec les meilleurs conseillers",
+
+        "card":[
+            {
+            "card_img": "./assets/Team_01_L1_1.jpg",
+            "card_title": "Alexandre Moreau",
+            "card_text": "Nutrition"
+            },
+            {
+            "card_img": "./assets/Team_01_L1_2.jpg",
+            "card_title": "Maya Patel",
+            "card_text": "Sports collectifs"
+            },
+            {
+            "card_img": "./assets/Team_01_L1_3.jpg",
+            "card_title": "Carlos Rodriguez",
+            "card_text": "Préparation physique"
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "background":"./../../../assets/Call_to_action_05_L3_bg.jpg",
+        "text":"Ça donne quoi ?",
+        "title":"Commencez le changement !",
+        "video":"https://www.youtube.com/embed/wx-kvJlKvJI?si=b1GA-C0NNHzIvnnc",
+
+        "card":[
+            {
+            "card_title": "Transformez Votre Sport",
+            "card_text": "Du suivi des progrès à la participation à des entraînements virtuels de qualité, avec SportHub redéfinissez votre expérience sportive."
+            },
+            {
+            "card_title": "Plongez dans l'Action",
+            "card_text": "Participez à des entraînements virtuels avec des experts et découvrez des événements sportifs passionnants."
+            },
+            {
+            "card_title": "le Sport en Communauté",
+            "card_text": "Une expérience sportive immersive pour tous les passionnés, où le sport rencontre la communauté"
+            }
+        ]
+    }
+]

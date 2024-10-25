@@ -1,0 +1,24 @@
+[
+    {
+        "text":"Un problème ?",
+        "title":"Contactez nous",
+        "first_input":"Votre message",
+        "second_input":"Votre adresse email",
+        "button":"Envoyer",
+
+        "card":[
+            {
+            "card_title": "Limoges, FRANCE",
+            "card_text": "09-111 Bd de la Borie, 87100 Limoges, France"
+            },
+            {
+            "card_title": "BRUXELLES, BELGIQUE",
+            "card_text": "Av. de la Toison d'Or 78, 1060 Bruxelles, Belgique"
+            },
+            {
+            "card_title": "Genève, SUISSE",
+            "card_text": "Rue Bovy-Lysberg 3-5, 1204 Genève, Suisse"
+            }
+        ]
+    }
+]

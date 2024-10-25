@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SportHub</title>
+    <link rel="stylesheet" href="css/base.css">
+</head>
+
+<body>
+    <section id="Navigation"></section>
+    <section id="Content"></section>
+    <section id="Feature"></section>
+    <section id="Call_to_actionl3"></section>
+    <section id="Showcase"></section>
+    <section id="Team"></section>
+    <section id="Testimonial"></section>
+    <section id="Contactl2"></section>
+    <section id="Formsl2"></section>
+    <section id="Footer"></section>
+
+    <script type="module">
+        import { Navigation } from "./composants_L1/Navigation/Navigation_02_L1/script.js";
+        Navigation.render("#Navigation", "./data/Navigation_02_L1.json");
+
+        import { Content } from "./composants_L1/Content/Content_06_L1/script.js";
+        Content.render("#Content", "./data/Content_06_L1.json");
+
+        import { Feature } from "./composants_L1/Feature/Feature_02_L2/script.js";
+        Feature.render("#Feature", "./data/Feature_02_L2.json");
+
+        import { Call_to_actionl3 } from "./composants_L3/Call_to_action/Call_to_action_05_L3/script.js";
+        Call_to_actionl3.render("#Call_to_actionl3", "./data/Call_to_action_05_L3.json");
+
+        import { Showcase } from "./composants_L1/Showcase/Showcase_01_L1/script.js";
+        Showcase.render("#Showcase", "./data/Showcase_01_L1.json");
+
+        import { Team } from "./composants_L1/Team/Team_01_L1/script.js";
+        Team.render("#Team", "./data/Team_01_L1.json");
+
+        import { Testimonial } from "./composants_L1/Testimonial/Testimonial_02_L1/script.js";
+        Testimonial.render("#Testimonial", "./data/Testimonial_02_L1.json");
+
+        import { Contactl2 } from "./composants_L2/Contact/Contact_02_L2/script.js";
+        Contactl2.render("#Contactl2", "./data/Contact_02_L2.json");
+
+        import { Formsl2 } from "./composants_L2/Forms/Forms_07_L2/script.js";
+        Formsl2.render("#Formsl2", "./data/Forms_07_L2.json");
+
+        import { Footer } from "./composants_L1/Footer/Footer_06_L1/script.js";
+        Footer.render("#Footer", "./data/Footer_06_L1.json");
+    </script>
+
+
+</body>
+
+</html>

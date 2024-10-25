@@ -1,0 +1,24 @@
+[
+    {
+        "card":[
+            {
+            "card_title": "Connectivité Globale",
+            "card_text": "Il permet aux passionnés de sport, qu'ils soient amateurs ou athlètes, de se connecter instantanément avec une communauté mondiale partageant les mêmes intérêts.",
+            "card_button": "En savoir plus",
+            "card_img": "./assets/Showcase_01_L1_1.jpg"
+            },
+            {
+            "card_title": "Entraînement Accessible et Personnalisé",
+            "card_text": "Le principe repose sur la fourniture d'entraînements virtuels de classe mondiale, dispensés par des experts du domaine, accessibles à tout moment et depuis n'importe où.",
+            "card_button": "En savoir plus",
+            "card_img": "./assets/Showcase_01_L1_2.jpg"
+            },
+            {
+            "card_title": "Communauté Active et Engagée",
+            "card_text": "La plateforme vise à encourager la participation constante en facilitant la découverte d'événements sportifs locaux.",
+            "card_button": "En savoir plus",
+            "card_img": "./assets/Showcase_01_L1_3.jpg"
+            }
+        ]
+    }
+]

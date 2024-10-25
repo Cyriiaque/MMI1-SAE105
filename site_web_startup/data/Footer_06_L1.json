@@ -1,0 +1,16 @@
+[
+    {
+        "title": "SportHub",
+        "rule": ["Politique de confidentialité","Cookies"],
+        "icon": ["./assets/twitter.svg","./assets/Google.svg","./assets/facebook.svg"],
+        "rubrique1": "Présentation",
+        "link1":"Content",
+        "rubrique2": "Coachs",
+        "link2":"Team",
+        "rubrique3": "Contact",
+        "link3":"Contactl2",
+        "rubrique4": "Application",
+        "link4":"Formsl2",
+        "rule_last": "© 2024 SportHub. Tous droits réservés."
+    }
+]

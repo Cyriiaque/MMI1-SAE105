@@ -1,0 +1,24 @@
+@import './reset.css';
+@import './variables.css';
+
+@import '../composants_L1/Call_to_action/Call_to_action_01_L1/Call_to_action_01_L1.css';
+@import '../composants_L1/Contact/Contact_01_L1/Contact_01_L1.css';
+@import '../composants_L1/Content/Content_06_L1/Content_06_L1.css';
+@import '../composants_L1/Feature/Feature_02_L2/Feature_02_L2.css';
+@import '../composants_L1/Footer/Footer_06_L1/Footer_06_L1.css';
+@import '../composants_L1/Forms/Forms_02_L1/Forms_02_L1.css';
+@import '../composants_L1/Hero/hero_04_L1/hero_04_L1.css';
+@import '../composants_L1/Navigation/Navigation_02_L1/Navigation_02_L1.css';
+@import '../composants_L1/Pricing_table/Pricing_table_01_L1/Pricing_table_01_L1.css';
+@import '../composants_L1/Showcase/Showcase_01_L1/Showcase_01_L1.css';
+@import '../composants_L1/Team/Team_01_L1/Team_01_L1.css';
+@import '../composants_L1/Testimonial/Testimonial_02_L1/Testimonial_02_L1.css';
+@import '../composants_L2/Contact/Contact_02_L2/Contact_02_L2.css';
+@import '../composants_L2/Forms/Forms_07_L2/Forms_07_L2.css';
+@import '../composants_L3/Call_to_action/Call_to_action_05_L3/Call_to_action_05_L3.css';
+
+#Navigation{
+    position: fixed;
+    z-index: 100;
+    width: 100%;
+}
