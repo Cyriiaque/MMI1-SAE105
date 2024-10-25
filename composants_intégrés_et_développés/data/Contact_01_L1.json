@@ -1,0 +1,13 @@
+[
+    {
+        "background":"./../../../assets/contact_01_L1.png",
+        "title1": "Startup 3",
+        "text1": "A high-quality solution for those who want a beautiful startup website quickly.",
+        "title2": "E-mail",
+        "text2": "info@designmodo.com",
+        "title3": "Phone",
+        "text3": "+1 555 505 5050",
+        "title4": "Socials",
+        "link": ["./assets/facebook.svg","./assets/behance.svg","./assets/pinterest.svg","./assets/dribbble.svg","./assets/twitter.svg","./assets/linkedin.svg"]
+    }
+]

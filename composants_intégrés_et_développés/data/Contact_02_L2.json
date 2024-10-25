@@ -1,0 +1,24 @@
+[
+    {
+        "text":"Get Started",
+        "title":"Get in Touch with Us",
+        "first_input":"Your message",
+        "second_input":"Your email",
+        "button":"Send",
+
+        "card":[
+            {
+            "card_title": "New York, NY",
+            "card_text": "62 West 55th Street, Suite 302 New York, NY, 10230"
+            },
+            {
+            "card_title": "San Francisco, CA",
+            "card_text": "560 Judah St & 15th Ave, Apt. 5 San Francisco, CA, 230903"
+            },
+            {
+            "card_title": "Dubai",
+            "card_text": "U237-02, Gold Tower, Jumeirah Lakes Towers, Dubai, UAE"
+            }
+        ]
+    }
+]

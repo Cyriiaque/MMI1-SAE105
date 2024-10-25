@@ -1,0 +1,30 @@
+[
+    {
+        "text":"Our Team",
+        "title":"Our Awesome Team",
+        "text2":"There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form.",
+
+        "card":[
+            {
+            "card_img": "./assets/Team_01_L1_1.png",
+            "card_title": "Coriss Ambady",
+            "card_text": "Web Developer"
+            },
+            {
+            "card_img": "./assets/Team_01_L1_2.png",
+            "card_title": "Coriss Ambady",
+            "card_text": "Web Developer"
+            },
+            {
+            "card_img": "./assets/Team_01_L1_3.png",
+            "card_title": "Coriss Ambady",
+            "card_text": "Web Developer"
+            },
+            {
+            "card_img": "./assets/Team_01_L1_4.png",
+            "card_title": "Coriss Ambady",
+            "card_text": "Web Developer"
+            }
+        ]
+    }
+]

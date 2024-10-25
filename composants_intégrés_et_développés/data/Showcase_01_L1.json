@@ -1,0 +1,24 @@
+[
+    {
+        "card":[
+            {
+            "card_title": "Quality you can trust",
+            "card_text": "Carefully crafted precise design, with harmo-nious typography and perfect padding around every component.",
+            "card_button": "Learn more",
+            "card_img": "./assets/Showcase_01_L1_1.png"
+            },
+            {
+            "card_title": "Quality you can trust",
+            "card_text": "Carefully crafted precise design, with harmo-nious typography and perfect padding around every component.",
+            "card_button": "Learn more",
+            "card_img": "./assets/Showcase_01_L1_2.png"
+            },
+            {
+            "card_title": "Quality you can trust",
+            "card_text": "Carefully crafted precise design, with harmo-nious typography and perfect padding around every component.",
+            "card_button": "Learn more",
+            "card_img": "./assets/Showcase_01_L1_3.png"
+            }
+        ]
+    }
+]
